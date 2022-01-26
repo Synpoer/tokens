@@ -6,7 +6,7 @@ import colorama
 from colorama import Fore, init, Back, Style
 from datetime import date
 
-os.system("title Token Gen + Checker par TheTeamHackFR#0001")
+os.system("title Token Gen + Checker par saga/love#6806")
 
 def Spinner():
 	l = ['|', '/', '-', '\\']
